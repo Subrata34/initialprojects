@@ -5,7 +5,7 @@ import {colors} from './src/theme/colors';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text style={{color:'white'}}>Open up App.js  your app!</Text>
+      <Text style={{color:'white'}}>Open up App.js  your app! react native </Text>
       <StatusBar style="auto" />
     </View>
   );
