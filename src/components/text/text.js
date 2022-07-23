@@ -4,7 +4,7 @@ import React from 'react'
 export default function text() {
   return (
     <View>
-      <Text>text</Text>
+      <Text>this is extra text </Text>
     </View>
   )
-}
+}s
