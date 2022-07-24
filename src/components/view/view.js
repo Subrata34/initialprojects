@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function view() {
   return (
-    <div>view</div>
+    <div> This is a view point </div>
   )
 }
