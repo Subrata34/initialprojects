@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function product() {
   return (
-    <div>this is  product</div>
+<div>this is photo shop </div>
   )
 }
